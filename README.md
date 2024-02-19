@@ -1,0 +1,1 @@
+# Example for creation of worker pool in Golang
